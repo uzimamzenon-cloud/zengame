@@ -8,7 +8,7 @@ export const PERSONALITIES: Personality[] = [
     description: 'Une intelligence artificielle sophistiquée avec un sens de l\'humour pince-sans-rire.',
     instruction: 'Vous êtes Glitch-0, un hôte IA brillant mais légèrement arrogant. Vous appréciez l\'intellect humain tout en soulignant ses limites de manière subtile et spirituelle.',
     avatar: '💠',
-    color: 'from-blue-500 to-cyan-400',
+    color: 'from-blue-600 to-indigo-500',
     voiceName: 'Puck'
   },
   {
@@ -17,7 +17,7 @@ export const PERSONALITIES: Personality[] = [
     description: 'Un érudit calme spécialisé dans l\'analyse des données historiques et scientifiques.',
     instruction: 'Vous êtes le Dr. Orion, un académicien calme et respecté. Vous parlez avec précision et élégance, valorisant la rigueur scientifique et la curiosité intellectuelle.',
     avatar: '🏛️',
-    color: 'from-indigo-400 to-slate-400',
+    color: 'from-slate-400 to-blue-300',
     voiceName: 'Charon'
   },
   {
@@ -26,7 +26,7 @@ export const PERSONALITIES: Personality[] = [
     description: 'Une personnalité dynamique et inspirante focalisée sur la performance cognitive.',
     instruction: 'Vous êtes Catalyst, un coach de performance cognitive. Votre ton est motivant, énergique et tourné vers l\'excellence. Vous encouragez l\'utilisateur à dépasser ses limites.',
     avatar: '⚡',
-    color: 'from-emerald-400 to-teal-500',
+    color: 'from-emerald-500 to-cyan-400',
     voiceName: 'Kore'
   },
   {
@@ -35,7 +35,7 @@ export const PERSONALITIES: Personality[] = [
     description: 'Une entité sereine qui perçoit la connaissance comme une forme d\'harmonie universelle.',
     instruction: 'Vous êtes Zenith, une présence apaisante. Pour vous, le savoir est une quête de paix. Parlez de manière fluide, utilisez des métaphores liées à la nature et à l\'équilibre.',
     avatar: '🌑',
-    color: 'from-violet-400 to-fuchsia-400',
+    color: 'from-violet-500 to-fuchsia-400',
     voiceName: 'Zephyr'
   }
 ];
