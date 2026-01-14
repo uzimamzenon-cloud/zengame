@@ -1,0 +1,7 @@
+{
+  "name": "ZenGame: Cognitive Challenge",
+  "description": "Une plateforme de quiz sophistiquée utilisant l'IA pour des interactions vocales en temps réel et des défis intellectuels.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
